@@ -1,0 +1,67 @@
+disease_name,symptom_name,association_strength,is_primary_symptom,typical_onset_days,prevalence_percentage
+Dengue Fever,fever,0.95,1,1,98
+Dengue Fever,body_ache,0.92,1,1,95
+Dengue Fever,headache,0.88,1,2,90
+Dengue Fever,rash,0.75,0,5,70
+Dengue Fever,vomiting,0.65,0,2,65
+Malaria,fever,0.98,1,2,99
+Malaria,chills,0.92,1,1,90
+Malaria,headache,0.85,1,1,85
+Malaria,body_ache,0.88,1,1,88
+Malaria,fatigue,0.80,1,2,80
+Typhoid Fever,fever,0.93,1,3,95
+Typhoid Fever,headache,0.85,1,2,85
+Typhoid Fever,body_ache,0.78,1,2,80
+Typhoid Fever,abdominal_pain,0.70,0,3,70
+Typhoid Fever,diarrhea,0.65,0,5,65
+Cholera,diarrhea,0.99,1,1,100
+Cholera,vomiting,0.96,1,1,95
+Cholera,abdominal_pain,0.85,1,1,85
+Cholera,weakness,0.92,1,2,90
+Pneumonia,cough,0.98,1,1,99
+Pneumonia,fever,0.88,1,2,88
+Pneumonia,difficulty_breathing,0.85,1,2,85
+Pneumonia,chest_pain,0.70,0,3,70
+Hypertension,high_blood_pressure,0.99,1,0,100
+Hypertension,headache,0.55,0,0,55
+Hypertension,dizziness,0.45,0,0,45
+Type 2 Diabetes,fatigue,0.75,0,0,75
+Type 2 Diabetes,urinary_frequency,0.80,0,0,80
+Type 2 Diabetes,loss_of_appetite,0.60,0,0,60
+Asthma,cough,0.88,1,0,88
+Asthma,difficulty_breathing,0.92,1,0,92
+Asthma,chest_pain,0.70,0,0,70
+Gastroenteritis,diarrhea,0.96,1,1,96
+Gastroenteritis,vomiting,0.91,1,1,91
+Gastroenteritis,abdominal_pain,0.88,1,1,88
+Gastroenteritis,fever,0.65,0,1,65
+Acute Bronchitis,cough,0.95,1,1,95
+Acute Bronchitis,sore_throat,0.70,0,1,70
+Acute Bronchitis,runny_nose,0.75,0,1,75
+Heart Attack,chest_pain,0.99,1,0,99
+Heart Attack,difficulty_breathing,0.85,1,0,85
+Heart Attack,rapid_heartbeat,0.88,1,0,88
+Heart Attack,weakness,0.75,0,0,75
+Viral Hepatitis,fever,0.70,0,5,70
+Viral Hepatitis,fatigue,0.85,1,5,85
+Viral Hepatitis,abdominal_pain,0.75,0,5,75
+UTI,urinary_frequency,0.92,1,1,92
+UTI,abdominal_pain,0.80,0,1,80
+Skin Infection,rash,0.96,1,3,96
+Skin Infection,fever,0.60,0,2,60
+Stroke,weakness,0.98,1,0,98
+Stroke,difficulty_speaking,0.90,1,0,90
+Stroke,facial_drooping,0.85,1,0,85
+Anaphylaxis,difficulty_breathing,0.99,1,0,99
+Anaphylaxis,chest_pain,0.95,1,0,95
+Anaphylaxis,rash,0.85,1,0,85
+Diarrhea,loose_stools,0.99,1,1,99
+Diarrhea,abdominal_pain,0.85,0,1,85
+Acute Kidney Injury,weakness,0.85,1,0,85
+Acute Kidney Injury,urinary_frequency,0.75,0,0,75
+Migraine,headache,0.99,1,0,99
+Migraine,nausea,0.80,0,0,80
+Migraine,vision_changes,0.65,0,0,65
+Tuberculosis,cough,0.95,1,0,95
+Tuberculosis,fever,0.75,0,0,75
+Tuberculosis,bloody_cough,0.65,0,0,65

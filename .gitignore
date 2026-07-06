@@ -1,0 +1,8 @@
+.env
+*.db
+__pycache__/
+.venv/
+venv/
+.server_pids.json
+*.log
+.pytest_cache/

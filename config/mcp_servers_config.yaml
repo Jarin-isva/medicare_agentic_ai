@@ -1,0 +1,41 @@
+# MCP Servers Configuration
+# config/mcp_servers_config.yaml
+
+mcp_servers:
+  medical_kb:
+    name: Medical Knowledge Base
+    server_type: fastapi
+    host: "0.0.0.0"
+    port: 8002
+    status: running
+    description: "Medical knowledge base with disease lookup, symptoms, and guidelines"
+    database: "data/mediguide.db"
+    tools:
+      - find_diseases
+      - get_disease_details
+      - check_drug_interaction
+      - get_treatment_guidelines
+      - search_symptoms_by_category
+    health_check_url: "http://localhost:8002/health"
+
+  emergency_detector:
+    name: Emergency Detection
+    server_type: fastapi
+    host: "0.0.0.0"
+    port: 8002
+    status: pending  # Will be implemented in Step 5
+    description: "Emergency condition detection and risk assessment"
+
+  care_network:
+    name: Care Network Registry
+    server_type: fastapi
+    host: "0.0.0.0"
+    port: 8003
+    status: pending  # Will be implemented in Step 5
+    description: "Hospital registry and specialist network matching"
+
+# Server startup command
+startup_commands:
+  medical_kb: "python mcp_servers/medical_kb.py"
+  emergency_detector: "python mcp_servers/emergency_detector.py"
+  care_network: "python mcp_servers/care_network.py"

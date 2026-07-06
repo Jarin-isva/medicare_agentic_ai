@@ -1,0 +1,21 @@
+icd11_code,disease_name,common_name,description,severity_level,typical_duration,treatment_class,is_emergency
+BA00,Dengue Fever,Dengue,Mosquito-borne viral disease endemic to Bangladesh,moderate,7-14 days,Antiviral,0
+CA00,Malaria,Malaria,Parasitic disease transmitted by mosquitoes,severe,14-30 days,Antimalarial,1
+BA81,Typhoid Fever,Typhoid,Bacterial infection from contaminated water,moderate,14-21 days,Antibiotic,0
+BA85,Cholera,Cholera,Severe diarrheal disease from contaminated water,critical,2-7 days,Antibiotic,1
+DA89,Pneumonia,Pneumonia,Lung infection causing respiratory distress,severe,14-21 days,Antibiotic,1
+CA40,Hypertension,High Blood Pressure,Elevated blood pressure requiring monitoring,moderate,Chronic,Antihypertensive,0
+BA01,Type 2 Diabetes,Diabetes,Metabolic disorder affecting blood glucose,moderate,Chronic,Antidiabetic,0
+DA60,Asthma,Asthma,Chronic airway inflammation,moderate,Chronic,Bronchodilator,0
+BA30,Gastroenteritis,Food Poisoning,Inflammation of stomach and intestines,mild,3-7 days,Supportive,0
+DA40,Acute Bronchitis,Bronchitis,Inflammation of bronchial tubes,mild,7-14 days,Expectorant,0
+CA80,Acute Myocardial Infarction,Heart Attack,Emergency heart condition,critical,Immediate,Cardiovascular,1
+BA90,Hepatitis B,Viral Hepatitis,Liver infection from contaminated blood,severe,30-180 days,Antiviral,0
+BA50,Urinary Tract Infection,UTI,Infection of urinary system,mild,7-14 days,Antibiotic,0
+BA60,Skin Infection,Skin Infection,Bacterial or fungal skin disease,mild,7-14 days,Topical/Antibiotic,0
+CA50,Stroke,Cerebrovascular Accident,Emergency brain blood vessel blockage,critical,Immediate,Neurological,1
+DA80,Severe Allergic Reaction,Anaphylaxis,Life-threatening allergic response,critical,Minutes,Emergency,1
+BA70,Diarrhea,Diarrhea,Acute gastrointestinal disorder,mild,3-7 days,Supportive,0
+CA10,Acute Kidney Injury,Kidney Failure,Sudden loss of kidney function,critical,Variable,Nephrology,1
+BA40,Migraine,Migraine Headache,Severe recurring headache,moderate,4-72 hours,Analgesic,0
+DA20,Tuberculosis,TB,Chronic respiratory infection,severe,180+ days,Antituberculous,0

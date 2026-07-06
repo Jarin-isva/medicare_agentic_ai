@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  medical-kb:
+    build: .
+    container_name: mediguide-medical-kb
+    command: python mcp_servers/medical_kb.py
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: always
+
+  emergency-detector:
+    build: .
+    container_name: mediguide-emergency-detector
+    command: python mcp_servers/emergency_detector.py
+    ports:
+      - "8002:8002"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: always
+
+  care-network:
+    build: .
+    container_name: mediguide-care-network
+    command: python mcp_servers/care_network.py
+    ports:
+      - "8003:8003"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: always

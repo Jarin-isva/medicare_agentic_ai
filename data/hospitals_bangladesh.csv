@@ -1,0 +1,17 @@
+hospital_name,address,city,district,phone,latitude,longitude,specialties,available_beds,rating,is_emergency_facility,average_wait_time
+Chittagong Medical College Hospital,Chittagong,Chittagong,Chittagong,+88031-2504844,22.3412,91.8197,General|Cardiology|Pediatrics|Neurology|Orthopedics,20,4.5,1,45
+Dhaka Medical College Hospital,Dhaka,Dhaka,Dhaka,+88029-6615000,23.7610,90.3587,General|Internal Medicine|Surgery|Pediatrics|Emergency,25,4.3,1,60
+Sylhet Osmani Medical College Hospital,Sylhet,Sylhet,Sylhet,+88-1711-504222,24.8948,91.8687,General|Pediatrics|Orthopedics|Surgery,15,4.0,1,50
+Rajshahi Medical College Hospital,Rajshahi,Rajshahi,Rajshahi,+88-1811-754321,24.3745,88.5670,General|Internal Medicine|Pediatrics|Obstetrics,18,3.9,1,55
+Khulna Medical College Hospital,Khulna,Khulna,Khulna,+88-1711-654123,22.8456,89.1644,General|Surgery|Emergency|Pediatrics,16,3.8,1,50
+Apollo Hospitals Dhaka,Dhaka,Dhaka,Dhaka,+88-1819-500000,23.7980,90.4113,Cardiology|Oncology|Neurology|Orthopedics|Diagnostic,30,4.8,1,30
+Evercare Hospital Dhaka,Dhaka,Dhaka,Dhaka,+88-1911-711711,23.8103,90.4097,Cardiology|Internal Medicine|Pediatrics|Surgery,25,4.7,1,35
+Bangabandhu Sheikh Mujib Medical University,Dhaka,Dhaka,Dhaka,+88-1966-001000,23.7635,90.3711,All Specialties|Teaching Hospital|Research,40,4.6,1,40
+Chittagong Eye Hospital,Chittagong,Chittagong,Chittagong,+88-1814-100100,22.3412,91.8197,Ophthalmology|Eye Care|Emergency,12,4.4,1,25
+Popular Hospital Dhaka,Dhaka,Dhaka,Dhaka,+88-1811-234567,23.7500,90.3700,General|Internal Medicine|Pediatrics|Emergency,20,4.2,1,45
+Ibn Sina Hospital Dhaka,Dhaka,Dhaka,Dhaka,+88-1911-901234,23.7650,90.4050,Cardiology|Neurology|Orthopedics|Surgery,22,4.3,1,40
+LabAid Hospital Dhaka,Dhaka,Dhaka,Dhaka,+88-1819-000000,23.7700,90.4100,General|Internal Medicine|Surgery|Pediatrics,18,4.1,1,50
+Square Hospitals Dhaka,Dhaka,Dhaka,Dhaka,+88-1819-500000,23.7800,90.4200,Cardiology|Orthopedics|Neurology|Emergency,24,4.4,1,35
+Chittagong Shishu Hospital,Chittagong,Chittagong,Chittagong,+88-31-2530001,22.3400,91.8200,Pediatrics|Neonatology|Child Emergency,16,4.3,1,40
+Port City Hospital Chittagong,Chittagong,Chittagong,Chittagong,+88-1811-500123,22.3450,91.8300,General|Pediatrics|Orthopedics|Emergency,14,4.0,1,45
+Rajshahi Shishu Hospital,Rajshahi,Rajshahi,Rajshahi,+88-1711-654321,24.3700,88.5600,Pediatrics|Neonatology|Child Health,12,3.9,1,50
