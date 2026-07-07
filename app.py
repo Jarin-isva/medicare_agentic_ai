@@ -1,5 +1,4 @@
 # MediGuide: Healthcare Triage Agent
-# Main Application File - DeepSeek API (FREE!)
 # Status: STEP 6 COMPLETE - ALL AGENTS IMPLEMENTED ✅
 
 import os
@@ -12,10 +11,6 @@ load_dotenv()
 
 print("=" * 60)
 print("✅ MediGuide Agent System Initialized")
-print("=" * 60)
-print("\n💰 Using FREE DeepSeek API")
-print("=" * 60)
-
 # Check systems
 def check_all_systems():
     """Check all required systems"""
@@ -76,7 +71,6 @@ if __name__ == "__main__":
         print("\n" + "-" * 60)
         print("✅ ALL SYSTEMS READY - AGENTS OPERATIONAL")
         print("=" * 60)
-        print("\n🤖 Agent System Status (Using DeepSeek API):")
         print("  - Intake Agent: Ready ✅")
         print("  - Symptom Analysis Agent: Ready ✅")
         print("  - Emergency Triage Agent: Ready ✅")
