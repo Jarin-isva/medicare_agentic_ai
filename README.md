@@ -541,7 +541,8 @@ https://github.com/user-attachments/assets/aab06bd7-4612-48eb-a956-0b69f5bdaddc
 <img width="1322" height="552" alt="Screenshot 2026-07-07 212231" src="https://github.com/user-attachments/assets/78353441-c218-414c-83ee-2dcca304ca16" />
 
 <img width="1355" height="569" alt="Screenshot 2026-07-07 212249" src="https://github.com/user-attachments/assets/8b4fd322-ded0-4143-b667-8c2b67d83f58" />
-
+## YouTube channel link
+https://youtu.be/0a9t-wNfQQU
 
 ## 💬 Support
 
