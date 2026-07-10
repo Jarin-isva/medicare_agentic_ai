@@ -43,7 +43,6 @@ http://localhost:8501
 ---
 
 ## 📋 Features
-<img width="2880" height="1920" alt="mediguide_project_card" src="https://github.com/user-attachments/assets/332baf32-8210-4495-8ad0-7a650d853a8d" />
 ### ✅ Multi-Agent AI System
 - **4 Specialized Agents**
   - 🎯 Intake Agent - Patient data collection
