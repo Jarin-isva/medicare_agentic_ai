@@ -543,7 +543,13 @@ https://github.com/user-attachments/assets/aab06bd7-4612-48eb-a956-0b69f5bdaddc
 <img width="1355" height="569" alt="Screenshot 2026-07-07 212249" src="https://github.com/user-attachments/assets/8b4fd322-ded0-4143-b667-8c2b67d83f58" />
 
 ---
-## https://youtube.com/ YouTube channel link
+##
+ <a href="#" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;background:#FF0000;color:#fff;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;font-weight:600;font-size:14px;">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff">
+    <path d="M23.5 6.2s-.23-1.64-.94-2.36c-.9-.94-1.9-.94-2.36-1C17.13 2.6 12 2.6 12 2.6h-.01s-5.13 0-8.19.24c-.46.06-1.46.06-2.36 1-.71.72-.94 2.36-.94 2.36S0 8.1 0 10v1.8c0 1.9.23 3.8.23 3.8s.23 1.64.94 2.36c.9.94 2.08.91 2.6 1.01 1.89.18 8.02.24 8.02.24s5.14-.01 8.2-.25c.46-.06 1.46-.06 2.36-1 .71-.72.94-2.36.94-2.36s.23-1.9.23-3.8V10c0-1.9-.23-3.8-.23-3.8zM9.55 14.68V7.32L16.36 11l-6.81 3.68z"/>
+  </svg>
+  Youtube Channel Link
+</a>
 
 https://youtu.be/0a9t-wNfQQU
 ## 💬 Support
