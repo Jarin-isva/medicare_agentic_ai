@@ -201,7 +201,8 @@ http://localhost:8501
 ## 🚀 Deployment Options
 
 ### Option 1: Streamlit Cloud (Recommended - Free)
-**Live:** https://mediguide-agent-jarin.streamlit.app
+**Live:** https://medicareagenticai-yzswvhq59fw5lzoskm3zhv
+.streamlit.app
 
 ```bash
 # Just connect GitHub → Auto deploy
@@ -552,22 +553,31 @@ MIT License - Open source for healthcare research and deployment
 - **System Uptime**: 99.9%
 
 ---
+## Agent UI/UX Visualization
 
-## 🎯 Next Steps
 
-1. ✅ **Try Live Demo**: https://mediguide-agent-jarin.streamlit.app
-2. ✅ **Clone Repository**: `git clone https://github.com/Jarin-isva/mediguide-agent.git`
-3. ✅ **Read Documentation**: See AGENT_SKILLS.md and TECHNICAL_DOCUMENTATION.md
-4. ✅ **Run Locally**: Follow setup instructions above
-5. ✅ **Deploy to Cloud**: Connect to Streamlit Cloud
+https://github.com/user-attachments/assets/67753e75-ddff-4ac5-9b44-64111afbd833
 
----
+<img width="1302" height="606" alt="Screenshot 2026-07-07 211850" src="https://github.com/user-attachments/assets/b3998a03-2f51-4b67-ad4b-802fa18e18d9" />
+
+<img width="1318" height="624" alt="Screenshot 2026-07-07 211913" src="https://github.com/user-attachments/assets/611c5226-0488-4375-9392-6dd1bd0a306c" />
+<img width="1335" height="636" alt="Screenshot 2026-07-07 212050" src="https://github.com/user-attachments/assets/2968a12e-33ae-4181-ac04-a95143b6bd5b" />
+<img width="107" height="45" alt="Screenshot 2026-07-07 212102" src="https://github.com/user-attachments/assets/33a773ac-89e8-4912-ae83-0326dc8a5c9b" />
+<img width="1362" height="597" alt="Screenshot 2026-07-07 212117" src="https://github.com/user-attachments/assets/af7dded3-c2f1-489c-8acf-affc1e9d332b" />
+<img width="1344" height="599" alt="Screenshot 2026-07-07 212141" src="https://github.com/user-attachments/assets/67b2143a-f739-4a87-a044-2d50326c616a" />
+
+<img width="1338" height="554" alt="Screenshot 2026-07-07 212206" src="https://github.com/user-attachments/assets/c5df30b7-d61b-4e17-9623-3c8cad0f673d" />
+<img width="1322" height="552" alt="Screenshot 2026-07-07 212231" src="https://github.com/user-attachments/assets/37a2b9e2-c26a-48ff-ae88-ff66e6d6dc5b" />
+<img width="1355" height="569" alt="Screenshot 2026-07-07 212249" src="https://github.com/user-attachments/assets/a8e8ee06-0e3e-4abf-a413-1906a81d3c4e" />
+
+
 
 ## 💬 Support
 
 - **GitHub Issues**: Report bugs or request features
 - **Documentation**: See README sections above
-- **Live Demo**: Test at https://mediguide-agent-jarin.streamlit.app
+- **Live Demo**: Test at https://medicareagenticai-yzswvhq59fw5lzoskm3zhv
+.streamlit.app
 - **Feedback**: We'd love to hear from you!
 
 ---
