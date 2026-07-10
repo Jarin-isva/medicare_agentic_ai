@@ -525,7 +525,7 @@ MIT License - Open source for healthcare research and deployment
 https://github.com/user-attachments/assets/aab06bd7-4612-48eb-a956-0b69f5bdaddc
 
 ## Agent UI/UX Visualization
-
+---
 <img width="1302" height="606" alt="Screenshot 2026-07-07 211850" src="https://github.com/user-attachments/assets/0e726eb8-6327-4e44-b18e-ce3457bc276d" />
 <img width="1318" height="624" alt="Screenshot 2026-07-07 211913" src="https://github.com/user-attachments/assets/4fc3a844-0f35-4912-b31f-02b29a770095" />
 
@@ -541,9 +541,11 @@ https://github.com/user-attachments/assets/aab06bd7-4612-48eb-a956-0b69f5bdaddc
 <img width="1322" height="552" alt="Screenshot 2026-07-07 212231" src="https://github.com/user-attachments/assets/78353441-c218-414c-83ee-2dcca304ca16" />
 
 <img width="1355" height="569" alt="Screenshot 2026-07-07 212249" src="https://github.com/user-attachments/assets/8b4fd322-ded0-4143-b667-8c2b67d83f58" />
-## YouTube channel link
-https://youtu.be/0a9t-wNfQQU
 
+---
+## https://youtube.com/ YouTube channel link
+
+https://youtu.be/0a9t-wNfQQU
 ## 💬 Support
 
 - **GitHub Issues**: Report bugs or request features
