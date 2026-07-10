@@ -6,43 +6,8 @@
 
 > **AI-powered clinical assessment for healthcare inequality. Delivering accurate triage to 4.5 billion people without access to basic medical care.**
 
----
-
-## 🚀 Quick Start
-
-### Try MediGuide Live Now
-
-**☁️ Cloud Deployment (Instant - No Setup Required)**
-https://mediguide-agent-jarin.streamlit.app
-
-**🖥️ Local Deployment (5 minutes)**
-```bash
-# 1. Clone repository
-git clone https://github.com/Jarin-isva/mediguide-agent.git
-cd mediguide-agent
-
-# 2. Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Mac/Linux
-# OR
-.venv\Scripts\activate  # Windows
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Start MCP servers (Terminal 1)
-python run_servers.py
-
-# 5. Launch Streamlit (Terminal 2)
-streamlit run streamlit_app.py
-
-# 6. Open browser
-http://localhost:8501
-```
-
----
-
 ## 📋 Features
+<img width="2880" height="1920" alt="mediguide_project_card" src="https://github.com/user-attachments/assets/332baf32-8210-4495-8ad0-7a650d853a8d" />
 ### ✅ Multi-Agent AI System
 - **4 Specialized Agents**
   - 🎯 Intake Agent - Patient data collection
