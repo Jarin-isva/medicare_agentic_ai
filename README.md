@@ -43,7 +43,7 @@ http://localhost:8501
 ---
 
 ## 📋 Features
-
+<img width="2880" height="1920" alt="mediguide_project_card" src="https://github.com/user-attachments/assets/332baf32-8210-4495-8ad0-7a650d853a8d" />
 ### ✅ Multi-Agent AI System
 - **4 Specialized Agents**
   - 🎯 Intake Agent - Patient data collection
@@ -553,15 +553,14 @@ MIT License - Open source for healthcare research and deployment
 - **System Uptime**: 99.9%
 
 ---
+
+
+## Demo Video
+
+
+https://github.com/user-attachments/assets/aab06bd7-4612-48eb-a956-0b69f5bdaddc
+
 ## Agent UI/UX Visualization
-
-<img width="2880" height="1920" alt="mediguide_project_card" src="https://github.com/user-attachments/assets/332baf32-8210-4495-8ad0-7a650d853a8d" />
-
-
-https://github.com/user-attachments/assets/6c27f0f6-f214-4728-87e9-63aec2d7039a
-
-
-
 
 <img width="1302" height="606" alt="Screenshot 2026-07-07 211850" src="https://github.com/user-attachments/assets/0e726eb8-6327-4e44-b18e-ce3457bc276d" />
 <img width="1318" height="624" alt="Screenshot 2026-07-07 211913" src="https://github.com/user-attachments/assets/4fc3a844-0f35-4912-b31f-02b29a770095" />
